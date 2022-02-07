@@ -36,6 +36,20 @@ Animation with pure CSS & P5.js <br/>
 </p>
 
 
+## Connect with me
+
+<p>
+<a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+<!-- status bar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
+
+[![Hanbyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbgksquf05)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dbgksquf05/dbgksquf05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
