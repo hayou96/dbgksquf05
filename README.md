@@ -49,7 +49,7 @@ Animation with pure CSS & P5.js <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
 
-[![Hanbyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbgksquf05)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbgksquf05)](https://github.com/dbgksquf05/github-readme-stats)
 
 <!--
 **dbgksquf05/dbgksquf05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
