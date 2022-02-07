@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+### I am Ryu, Co-rini from :kr: Seoul, Republic of Korea
+
+## About me
+
+🌱 I’m currently learning Basic Programming Skills like Python, HTML, CSS and Javascript.<br/>
+📝 Sometimes I write articles on [Medium](https://medium.com/) <br/>
+
 
 <!--
 **dbgksquf05/dbgksquf05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
